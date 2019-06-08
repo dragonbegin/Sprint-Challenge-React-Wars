@@ -4,7 +4,7 @@ import App from './App'
 const Character =  props =>{
   
     return (
-        <div className = 'Guy'> 
+        <div className = 'StrWarsChar'> 
 
 
             <h1>  {props.stuff.name}</h1>
