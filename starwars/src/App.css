@@ -2,7 +2,16 @@
   text-align: center;
 }
 .Header {
-  color: #443e3e;
-  text-shadow: 1px 1px 5px #fff;
+  color:rgb(63, 220, 248);
+  text-shadow: 1px 1px 5px rgb(38, 49, 49);
 }
 /* write your parent styles in here for your App.js */
+.StrWarsChar {
+  border: 5px solid rgb(63, 220, 248);
+  border-radius: 10px;
+  color:white;
+  text-shadow: 1px 1px 5px rgb(92, 92, 92);
+  margin: auto;
+  width:25%;
+  margin-bottom:15px;
+ }
